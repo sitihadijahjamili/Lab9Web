@@ -11,6 +11,12 @@ Berikutnya membuat file dengan nama header.php
 
 Membuat file baru lagi dengan menamakan footer.php
 ![Lab9  3](https://user-images.githubusercontent.com/56400200/121760584-b688a800-cb55-11eb-98bd-c690372240c0.PNG)
+![Lab9  3(1)](https://user-images.githubusercontent.com/56400200/121760648-0f584080-cb56-11eb-86a8-92b517bf60e9.PNG)
+
+Selanjutnya yaitu membuat home.php
+
+
+
 
 
 
