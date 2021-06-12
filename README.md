@@ -7,6 +7,10 @@ kemudian buatlah folder baru dengan nama lab9_php_modular pada htdoc seperti ber
 
 Berikutnya membuat file dengan nama header.php
 ![lAB9  2](https://user-images.githubusercontent.com/56400200/121760473-2fd3cb00-cb55-11eb-9b96-9605cb6cb6cd.PNG)
+![LAB9  2(1)](https://user-images.githubusercontent.com/56400200/121760509-64e01d80-cb55-11eb-8ca6-039bf808dc56.PNG)
+
+Membuat file baru lagi dengan menamakan footer.php
+
 
 
 
