@@ -14,6 +14,7 @@ Membuat file baru lagi dengan menamakan footer.php
 ![Lab9  3(1)](https://user-images.githubusercontent.com/56400200/121760648-0f584080-cb56-11eb-86a8-92b517bf60e9.PNG)
 
 Selanjutnya yaitu membuat home.php
+![Lab9  4](https://user-images.githubusercontent.com/56400200/121760837-fe5bff00-cb56-11eb-8dab-168372a63970.PNG)
 
 
 
