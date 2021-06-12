@@ -17,6 +17,9 @@ Selanjutnya yaitu membuat home.php
 ![Lab9  4](https://user-images.githubusercontent.com/56400200/121760837-fe5bff00-cb56-11eb-8dab-168372a63970.PNG)
 ![Lab9  4 (1)](https://user-images.githubusercontent.com/56400200/121760928-690d3a80-cb57-11eb-8104-9c858c3e173e.PNG)
 
+Kemudian membuat file dengan menamakan about.php
+![lab9  5](https://user-images.githubusercontent.com/56400200/121760971-9f4aba00-cb57-11eb-8c5a-2aeb0c263c1f.PNG)
+
 
 
 
