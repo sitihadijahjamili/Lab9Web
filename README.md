@@ -10,6 +10,8 @@ Berikutnya membuat file dengan nama header.php
 ![LAB9  2(1)](https://user-images.githubusercontent.com/56400200/121760509-64e01d80-cb55-11eb-8ca6-039bf808dc56.PNG)
 
 Membuat file baru lagi dengan menamakan footer.php
+![Lab9  3](https://user-images.githubusercontent.com/56400200/121760584-b688a800-cb55-11eb-98bd-c690372240c0.PNG)
+
 
 
 
