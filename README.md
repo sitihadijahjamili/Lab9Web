@@ -19,6 +19,12 @@ Selanjutnya yaitu membuat home.php
 
 Kemudian membuat file dengan menamakan about.php
 ![lab9  5](https://user-images.githubusercontent.com/56400200/121760971-9f4aba00-cb57-11eb-8c5a-2aeb0c263c1f.PNG)
+![lab9  5(1)](https://user-images.githubusercontent.com/56400200/121761665-572d9680-cb5b-11eb-8f90-38a55088d499.png)
+
+pertanyaan dan tugas
+Implementasikan konsep modularisasi pada kode program praktikum 8 tentang database, sehingga setiap halamannya memiliki template yang sama.
+
+
 
 
 
